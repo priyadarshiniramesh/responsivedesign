@@ -389,6 +389,9 @@ Publish the website in the given URL.
 ![output](./static/img/out2.jpg)
 ![output](./static/img/out3.jpg)
 ![output](./static/img/out4.jpg)
+![output](./static/img/out5.jpg)
+![output](./static/img/out6.jpg)
+
 
 
 ## REPORT:
