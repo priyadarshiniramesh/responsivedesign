@@ -385,15 +385,15 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 
-![output](./static/image/out1.jpg)
-![output](./static/image/out2.jpg)
-![output](./static/image/out3.jpg)
-![output](./static/image/out4.jpg)
+![output](./static/img/out1.jpg)
+![output](./static/img/out2.jpg)
+![output](./static/img/out3.jpg)
+![output](./static/img/out4.jpg)
 
 
 ## RESULT:
 
-![output](./static/image/report1.jpg)
-![output](./static/image/report2.jpg)
-![output](./static/image/report3.jpg)
-![output](./static/image/report4.jpg)
+![output](./static/img/report1.jpg)
+![output](./static/img/report2.jpg)
+![output](./static/img/report3.jpg)
+![output](./static/img/report4.jpg)
